@@ -1,5 +1,3 @@
-package MergeData;
-
 import java.util.Arrays;
 
 public class MergeData {

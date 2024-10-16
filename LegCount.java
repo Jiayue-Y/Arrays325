@@ -1,5 +1,3 @@
-package LegCount;
-
 public class LegCount {
 
     public static void main(String[] args) {
